@@ -1,0 +1,17 @@
+const secciones = {
+  turnos: document.getElementById('section-turnos'),
+  especialistas: document.getElementById('section-especialistas'),
+  farmacias: document.getElementById('section-farmacias'),
+  mensajeria: document.getElementById('section-mensajeria'),
+};
+
+const enlaces = {
+  turnos: document.getElementById('link-turnos'),
+  especialistas: document.getElementById('link-especialistas'),
+  farmacias: document.getElementById('link-farmacias'),
+  mensajeria: document.getElementById('link-mensajeria'),
+};
+
+/* ... Resto del código JavaScript del archivo ... */
+
+/* Todo lo que estaba dentro del <script> del HTML lo pegas aquí */

@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+header {
+  background-color: #0078D4;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 24px;
+}
+
+/* ... Resto del CSS que tenías copiado ... */
+
+/* Usa el mismo contenido del <style> original del archivo, pegándolo aquí */
